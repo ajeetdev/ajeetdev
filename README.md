@@ -5,8 +5,8 @@
 -      SKILLs
 -      Web Development
 -      Linux
+-      Cyber Security
 -      Networking
-       Cyber Security
 -      C/C++
 -      
 - 📫 How to reach me .. whatsapp me at +917070102208
